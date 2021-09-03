@@ -25,7 +25,7 @@
 [4. 암호 설정 화면](https://github.com/eminentecero/Guru3/wiki/4.-%EC%95%94%ED%98%B8-%EC%84%A4%EC%A0%95-%ED%99%94%EB%A9%B4(%EB%A9%94%EB%89%B4%E2%86%92%EC%95%94%ED%98%B8-%EC%84%A4%EC%A0%95))   
 [5. 쓰기 화면](https://github.com/eminentecero/Guru3/wiki/5.-%EC%93%B0%EA%B8%B0%ED%99%94%EB%A9%B4)   
 [6. 읽기 화면](https://github.com/eminentecero/Guru3/wiki/6.-%EC%9D%BD%EA%B8%B0-%ED%99%94%EB%A9%B4)   
-[7. 수기 화면](https://github.com/eminentecero/Guru3/wiki/7.-%EC%88%98%EC%A0%95%ED%99%94%EB%A9%B4)   
+[7. 수정 화면](https://github.com/eminentecero/Guru3/wiki/7.-%EC%88%98%EC%A0%95%ED%99%94%EB%A9%B4)   
 [8. 검색 화면](https://github.com/eminentecero/Guru3/wiki/8.-%EA%B2%80%EC%83%89-%ED%99%94%EB%A9%B4)   
 
 <img src = "https://user-images.githubusercontent.com/62979643/131944696-3c26e71f-3a33-460f-b0a1-266087c156a0.png" width ="200" />
