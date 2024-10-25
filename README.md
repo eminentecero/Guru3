@@ -10,9 +10,9 @@
 
 ✏기획: [강예원](https://github.com/yeew3658)
 
-💻백엔드: [김수영](https://github.com/eminentecero)
+💻백엔드: [김수영](https://github.com/eminentecero), [양아영](https://github.com/a-young0210)
 
-💻프론트엔드: [양아영](https://github.com/a-young0210), [정지연](https://github.com/stopkite)
+💻프론트엔드: [정지연](https://github.com/stopkite)
 
 🎨디자인: [유은서](https://github.com/silverwest8), [하유림](https://github.com/YurimHa)
 
